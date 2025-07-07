@@ -4,13 +4,13 @@ I'm **Shubham Wadkar**, a DevOps enthusiast from 🇮🇳 currently on a journey
 
 I'm deeply passionate about automation, infrastructure as code, cloud computing, and system monitoring. Currently learning and building projects using:
 
-🧠 **Current Focus**:
-- Docker, Kubernetes, OpenShift
-- AWS & Linux Infrastructure (RHEL on AWS)
-- CI/CD Tools (GitHub Actions, Jenkins, GitLab CI)
-- Monitoring Stack (Prometheus, Grafana, ELK)
-- Scripting (Python, Bash)
-- Resume Parser & Real-Time Stock Market Dashboard (Projects)
+🧠 **Current Focus** :
+
+- Shell scripting and Python (basics + data structures)
+- Docker, Kubernetes, and ArgoCD
+- AWS & Linux infrastructure (RHEL and Ubuntu on AWS)
+- CI/CD tools including GitHub Actions, Jenkins, and GitLab CI
+- Monitoring stack: Prometheus, Grafana, and ELK
 
 ---
 
@@ -59,24 +59,29 @@ I'm deeply passionate about automation, infrastructure as code, cloud computing,
 
 ---
 
-## 📅 My DevOps Learning Plan
+## 🤝 Open for Opportunities!
 
-🧩 Topics covered so far:
-- Networking Fundamentals (TCP/IP, OSI Model, DNS, HTTP/HTTPS)
-- Python for automation
-- Linux for DevOps
-- Cloud setup on AWS (RHEL, EC2)
+- Passionate about automation, cloud, and everything DevOps 🌐
+- Actively seeking exciting roles in DevOps Engineering, Python Automation, or Infrastructure Monitoring.
 
-🎯 Still learning:
-- Kubernetes (in depth)
-- Docker (container)
-- GitHub Actions Advanced Workflows
-- Infrastructure as Code (Terraform & Ansible)
+💡 Ready to bring energy, skills, and 100% dedication to the team!
+Whether it's a full-time job or internship I am all in 🚀
 
 ---
 
 ## 📬 How to reach me?
 
-- 💼 [Connect on LinkedIn](https://linkedin.com/in/shubhamwadkar)
-- 📧 Email me at: **shubhamwadkar880@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamwadkar)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamwadkar880@gmail.com)
+[![X](https://img.shields.io/badge/_X_Account-555555?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shubham18618598)
+
+---
+
+## ☕ Fun Facts
+- 🏔️ I have trekked 98 unique forts across Maharashtra including Rajgad, Torna, Harishchandragad, and more.
+- 🥾 Completed 262+ total treks and still counting!
+- 🌄 The Sahyadris are my second home, I find peace and perspective in every climb.
+- 🎒 Trekking has taught me more about resilience, patience, and leadership than any textbook ever could.
+- 🔧 When I’m not automating pipelines, I am probably exploring a fort or planning my next summit.
+
 ---
