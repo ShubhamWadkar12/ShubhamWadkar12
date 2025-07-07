@@ -1,4 +1,4 @@
-# Hi there 👋
+# 🤖 Welcome to the automation zone 🤖
 
 I'm **Shubham Wadkar**, a DevOps enthusiast from 🇮🇳 currently on a journey to become a skilled **DevOps Engineer** 🚀
 
