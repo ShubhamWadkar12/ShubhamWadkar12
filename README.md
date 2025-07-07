@@ -1,8 +1,8 @@
 # 🤖 Welcome to the automation zone 🤖
 
-I'm **Shubham Wadkar**, a DevOps enthusiast from 🇮🇳 currently on a journey to become a skilled **DevOps Engineer** 🚀
+Myself **Shubham Wadkar**, a DevOps enthusiast from 🇮🇳 currently on a journey to become a skilled **DevOps Engineer** 🚀
 
-I'm deeply passionate about automation, infrastructure as code, cloud computing, and system monitoring. Currently learning and building projects using:
+I am deeply passionate about automation, infrastructure as code, cloud computing, and system monitoring. Currently learning and building projects using:
 
 🧠 **Current Focus** :
 
