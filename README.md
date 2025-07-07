@@ -18,56 +18,55 @@ I'm deeply passionate about automation, infrastructure as code, cloud computing,
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
 ## 📚 DevOps Modules Covered
 
 ### 👨‍💻 Programming & Scripting
-![Shell Scripting](https://img.shields.io/badge/Scripting-Shell_&_Bash-0891b2)
-![Python Basics](https://img.shields.io/badge/Python-Basics_&_Data_Structures-yellow?logo=python)
-![Python For DevOps](https://img.shields.io/badge/Python-For_DevOps-yellowgreen?logo=python)
-![Python Project](https://img.shields.io/badge/Python-Project_for_Resume-brightgreen?logo=python)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python Basics](https://img.shields.io/badge/Python-Basics_&_DS-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python For DevOps](https://img.shields.io/badge/Python-For_DevOps-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Python Project](https://img.shields.io/badge/Python-Resume_Project-306998?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🖥️ Operating System
-![Linux For DevOps](https://img.shields.io/badge/Linux-For_DevOps-blue?logo=linux)
+![Linux For DevOps](https://img.shields.io/badge/Linux-For_DevOps-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🌐 Networking
-![Networking](https://img.shields.io/badge/Networking-For_DevOps-0ea5e9?logo=internetexplorer)
+![Computer Networking](https://img.shields.io/badge/Networking-For_DevOps-0069aa?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 ### 🔁 Version Control
-![GitHub One Video](https://img.shields.io/badge/GitHub-One_Video-24292e?logo=github)
-![Git For DevOps](https://img.shields.io/badge/Git_&_GitHub-For_DevOps-f05032?logo=git)
+![GitHub in One Video](https://img.shields.io/badge/GitHub-One_Video-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub for DevOps](https://img.shields.io/badge/Git_&_GitHub-For_DevOps-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🐳 Docker
-![Docker Beginners](https://img.shields.io/badge/Docker-Beginners_Project-2496ed?logo=docker)
-![Docker Revision 1](https://img.shields.io/badge/Docker-Revision_Part_1-2496ed)
-![Docker Revision 2](https://img.shields.io/badge/Docker-Revision_Part_2-2496ed)
+![Docker Beginners](https://img.shields.io/badge/Docker-Beginners_Project-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Revision 1](https://img.shields.io/badge/Docker-Revision_Part_1-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Revision 2](https://img.shields.io/badge/Docker-Revision_Part_2-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ☁️ Cloud
-![AWS Setup](https://img.shields.io/badge/AWS-Setup-ff9900?logo=amazonaws)
-![AWS Services](https://img.shields.io/badge/AWS-Important_Services-ff9900?logo=amazonaws)
-![AWS Lambda Project](https://img.shields.io/badge/AWS-Lambda_Project-orange?logo=awslambda)
+![AWS Setup](https://img.shields.io/badge/AWS-Setup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Services](https://img.shields.io/badge/AWS-Important_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda Project](https://img.shields.io/badge/AWS-Lambda_Project-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ### ⚙️ CI/CD
-![Jenkins One Shot](https://img.shields.io/badge/Jenkins-One_Shot-d24939?logo=jenkins)
-![Jenkins Setup](https://img.shields.io/badge/Jenkins-Setup_&_Installation-d24939?logo=jenkins)
-![Jenkins Project](https://img.shields.io/badge/Jenkins-CI/CD_Project-d24939?logo=jenkins)
-![GitLab For DevOps](https://img.shields.io/badge/GitLab-For_DevOps-fc6d26?logo=gitlab)
+![Jenkins One Shot](https://img.shields.io/badge/Jenkins-One_Shot-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins Setup](https://img.shields.io/badge/Jenkins-Setup_&_Installation-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins Project](https://img.shields.io/badge/Jenkins-CI/CD_Project-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab for DevOps](https://img.shields.io/badge/GitLab-For_DevOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🔧 Infrastructure as Code
-![YAML](https://img.shields.io/badge/YAML-For_Beginners-blueviolet)
-![Ansible Tutorial](https://img.shields.io/badge/Ansible-Tutorial-red?logo=ansible)
-![Ansible Project](https://img.shields.io/badge/Ansible-With_Project-e31b23?logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-For_Beginners-844fba?logo=terraform)
+### 🧱 Infrastructure as Code
+![YAML](https://img.shields.io/badge/YAML-For_Beginners-5e5c5c?style=for-the-badge&logo=yaml&logoColor=white)
+![Ansible Tutorial](https://img.shields.io/badge/Ansible-Tutorial-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible Project](https://img.shields.io/badge/Ansible-With_Project-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-For_Beginners-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### ☸️ Kubernetes & GitOps
-![Kubernetes Tutorial](https://img.shields.io/badge/Kubernetes-Tutorial-326ce5?logo=kubernetes)
-![Kubernetes Project](https://img.shields.io/badge/Kubernetes-Project-326ce5?logo=kubernetes)
-![ArgoCD Project](https://img.shields.io/badge/ArgoCD-Project-2359e5?logo=argo)
+![Kubernetes Tutorial](https://img.shields.io/badge/Kubernetes-Tutorial-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes Project](https://img.shields.io/badge/Kubernetes-Project-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD Project](https://img.shields.io/badge/ArgoCD-Project-2359e5?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 📊 Monitoring
-![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 
 ---
 
