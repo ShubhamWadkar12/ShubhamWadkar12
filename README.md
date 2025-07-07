@@ -17,6 +17,7 @@ I'm deeply passionate about automation, infrastructure as code, cloud computing,
 📊 **[DevOps Learning Progress Tracker](https://docs.google.com/spreadsheets/d/125r3GJ2C96k8BMVwdmvRmadsYOtyqLFrkKAJ_qF18Kw/edit?usp=sharing)**
 
 ---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Programming & Scripting
@@ -47,6 +48,37 @@ I'm deeply passionate about automation, infrastructure as code, cloud computing,
 
 ---
 
+## 📚 DevOps Modules Covered
+
+![Linux For DevOps](https://img.shields.io/badge/Linux-For_DevOps-blue?logo=linux)
+![Shell Scripting](https://img.shields.io/badge/Scripting-Shell_&_Bash-0891b2)
+![Python Basics](https://img.shields.io/badge/Python-Basics_&_Data_Structures-yellow?logo=python)
+![Python For DevOps](https://img.shields.io/badge/Python-For_DevOps-yellowgreen?logo=python)
+![Python Project](https://img.shields.io/badge/Python-Project_for_Resume-brightgreen?logo=python)
+![Networking](https://img.shields.io/badge/Networking-For_DevOps-0ea5e9?logo=internetexplorer)
+![GitHub One Video](https://img.shields.io/badge/GitHub-One_Video-24292e?logo=github)
+![Git For DevOps](https://img.shields.io/badge/Git_&_GitHub-For_DevOps-f05032?logo=git)
+![Docker Beginners](https://img.shields.io/badge/Docker-Beginners_Project-2496ed?logo=docker)
+![Docker Revision 1](https://img.shields.io/badge/Docker-Revision_Part_1-2496ed)
+![Docker Revision 2](https://img.shields.io/badge/Docker-Revision_Part_2-2496ed)
+![AWS Setup](https://img.shields.io/badge/AWS-Setup-ff9900?logo=amazonaws)
+![AWS Services](https://img.shields.io/badge/AWS-Important_Services-ff9900?logo=amazonaws)
+![AWS Lambda Project](https://img.shields.io/badge/AWS-Lambda_Project-orange?logo=awslambda)
+![Jenkins One Shot](https://img.shields.io/badge/Jenkins-One_Shot-d24939?logo=jenkins)
+![Jenkins Setup](https://img.shields.io/badge/Jenkins-Setup_&_Installation-d24939?logo=jenkins)
+![Jenkins Project](https://img.shields.io/badge/Jenkins-CI/CD_Project-d24939?logo=jenkins)
+![GitLab For DevOps](https://img.shields.io/badge/GitLab-For_DevOps-fc6d26?logo=gitlab)
+![YAML](https://img.shields.io/badge/YAML-For_Beginners-blueviolet)
+![Ansible Tutorial](https://img.shields.io/badge/Ansible-Tutorial-red?logo=ansible)
+![Ansible Project](https://img.shields.io/badge/Ansible-With_Project-e31b23?logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-For_Beginners-844fba?logo=terraform)
+![Kubernetes Tutorial](https://img.shields.io/badge/Kubernetes-Tutorial-326ce5?logo=kubernetes)
+![Kubernetes Project](https://img.shields.io/badge/Kubernetes-Project-326ce5?logo=kubernetes)
+![ArgoCD Project](https://img.shields.io/badge/ArgoCD-Project-2359e5?logo=argo)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+
+---
 
 ## 📅 My DevOps Learning Plan
 
@@ -69,4 +101,3 @@ I'm deeply passionate about automation, infrastructure as code, cloud computing,
 - 💼 [Connect on LinkedIn](https://linkedin.com/in/shubhamwadkar)
 - 📧 Email me at: **shubhamwadkar880@gmail.com**
 ---
-
