@@ -18,7 +18,7 @@ I am deeply passionate about automation, infrastructure as code, cloud computing
 
 ---
 
-## 📚 DevOps Modules Covered
+## 📚As part of my DevOps upskilling, I'm currently learning the following modules:
 
 ### 👨‍💻 Programming & Scripting
 ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
