@@ -81,8 +81,8 @@
 
 ## ☕ Fun Facts  
 
-- 🏔️ Trekked **98+ unique forts** across Maharashtra — including *Rajgad, Torna, Harishchandragad* and many more!  
-- 🥾 Completed **262+ total treks** (and still counting ⛰️)  
+- 🏔️ Trekked **100+ unique forts** across Maharashtra — including *Rajgad, Torna, Harishchandragad* and many more!  
+- 🥾 Completed **275+ total treks** (and still counting ⛰️)  
 - 🌄 The *Sahyadris* are my second home — every climb teaches me **resilience and leadership**.  
 - 🔧 When I’m not automating pipelines, I’m exploring a fort or planning my next summit.  
 
