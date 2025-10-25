@@ -4,7 +4,7 @@
   <img src="https://github.com/ShubhamWadkar12/ShubhamWadkar12/blob/main/banner.jpg" alt="Shubham Wadkar Banner">
 </div>
 
-<h3 align="center">🚀A Passionate <span style="color:#00BFFF;">DevOps Enthusiast</span> from India | Currently Learning & Building the Future of Automation ⚙️</h3>
+<h3 align="center">🚀A Passionate <span style="color:#00BFFF;">DevOps Enthusiast</span> from India | Currently Learning & Building Future of Automation ⚙️</h3>
 
 ---
 
